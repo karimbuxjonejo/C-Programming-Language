@@ -1,2 +1,4 @@
 # C-Programming Language
-It is C language codes repository created by me.
+It is C language codes repository
+<br>
+Author: Karim Bux Junejo
